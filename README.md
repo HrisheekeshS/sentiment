@@ -1,5 +1,3 @@
-## Deployed Streamlit Application
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/HrishikeshS/sentiment/main/app.py)
 
-Click the link below to view the live app!
-
-[Sentiment Analysis App on Streamlit Sharing](https://share.streamlit.io/hrisheekesh/sentiment/main/app.py)
+# Sentiment Analysis Project
